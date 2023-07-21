@@ -1,7 +1,0 @@
-
-This is my first file
-modified by me again
-
-This is my first file modified thi code
->>>>>>> f6eb9961e1b16549c75d3ceaf7d2cea51b5102a3 
-trying to add file deleted
